@@ -1,0 +1,6 @@
+{
+  "name": "DroidCraft - Android APK & Mobile App Studio",
+  "description": "Install directly onto your Android phone as a native app or generate and export Android Debug APK projects with full offline capabilities, PWA WebAPK install, and device preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
